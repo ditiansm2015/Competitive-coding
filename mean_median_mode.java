@@ -1,4 +1,4 @@
-// program URL:
+// program to calculate mean, median and mode in a given array
 // https://www.hackerrank.com/challenges/s10-basic-statistics/problem
 
 import java.io.*;
