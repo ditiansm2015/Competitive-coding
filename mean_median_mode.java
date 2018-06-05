@@ -1,3 +1,6 @@
+// program URL:
+// https://www.hackerrank.com/challenges/s10-basic-statistics/problem
+
 import java.io.*;
 import java.util.*;
 
